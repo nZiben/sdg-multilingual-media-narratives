@@ -1,0 +1,162 @@
+{
+  "SDG1_No_Poverty": [
+    "poverty",
+    "poor",
+    "low-income",
+    "homeless",
+    "соцзащита",
+    "бедност",
+    "贫困",
+    "pobreza"
+  ],
+  "SDG2_Zero_Hunger": [
+    "hunger",
+    "food security",
+    "malnutrition",
+    "famine",
+    "голод",
+    "饥饿",
+    "hambre"
+  ],
+  "SDG3_Good_Health": [
+    "health",
+    "pandemic",
+    "hospital",
+    "vaccine",
+    "well-being",
+    "covid",
+    "здоров",
+    "疫苗",
+    "salud"
+  ],
+  "SDG4_Quality_Education": [
+    "education",
+    "school",
+    "university",
+    "literacy",
+    "образован",
+    "教育",
+    "educación"
+  ],
+  "SDG5_Gender_Equality": [
+    "gender",
+    "women",
+    "girls",
+    "equality",
+    "femin",
+    "гендер",
+    "妇女",
+    "igualdad de género"
+  ],
+  "SDG6_Clean_Water": [
+    "water",
+    "sanitation",
+    "wastewater",
+    "clean drinking",
+    "вода",
+    "卫生",
+    "agua potable"
+  ],
+  "SDG7_Clean_Energy": [
+    "renewable",
+    "solar",
+    "wind power",
+    "clean energy",
+    "能源转型",
+    "возобновляем",
+    "energía renovable"
+  ],
+  "SDG8_Decent_Work": [
+    "jobs",
+    "employment",
+    "labor",
+    "wages",
+    "economic growth",
+    "занятость",
+    "就业",
+    "empleo"
+  ],
+  "SDG9_Industry_Innovation": [
+    "innovation",
+    "infrastructure",
+    "industry",
+    "technology",
+    "инфраструктур",
+    "创新",
+    "infraestructura"
+  ],
+  "SDG10_Reduced_Inequalities": [
+    "inequality",
+    "inequalities",
+    "migration",
+    "minorities",
+    "неравенств",
+    "不平等",
+    "desigualdad"
+  ],
+  "SDG11_Sustainable_Cities": [
+    "cities",
+    "urban",
+    "housing",
+    "transport",
+    "resilience",
+    "город",
+    "城市",
+    "ciudades sostenibles"
+  ],
+  "SDG12_Responsible_Consumption": [
+    "recycling",
+    "waste",
+    "circular economy",
+    "consumption",
+    "отход",
+    "循环经济",
+    "consumo responsable"
+  ],
+  "SDG13_Climate_Action": [
+    "climate change",
+    "global warming",
+    "carbon emissions",
+    "net zero",
+    "парников",
+    "气候变化",
+    "cambio climático"
+  ],
+  "SDG14_Life_Below_Water": [
+    "ocean",
+    "marine",
+    "fishery",
+    "plastic pollution",
+    "海洋",
+    "океан",
+    "océano"
+  ],
+  "SDG15_Life_On_Land": [
+    "biodiversity",
+    "forest",
+    "deforestation",
+    "wildlife",
+    "生物多样性",
+    "лес",
+    "biodiversidad"
+  ],
+  "SDG16_Peace_Justice": [
+    "corruption",
+    "justice",
+    "conflict",
+    "rule of law",
+    "коррупц",
+    "法治",
+    "justicia"
+  ],
+  "SDG17_Partnerships": [
+    "partnership",
+    "multilateral",
+    "UN",
+    "SDGs",
+    "cooperation",
+    "партнерств",
+    "合作",
+    "alianzas"
+  ]
+}
