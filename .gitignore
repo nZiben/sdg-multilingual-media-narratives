@@ -1,0 +1,21 @@
+# OS / editor
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# Archives / local bundles
+paper.zip
+
+# Large raw and intermediate data artifacts
+data/raw/
+data/processed/
+
+# Generated exploratory figures outside camera-ready paper package
+/figures/
+/reports/figures/
