@@ -1,0 +1,13 @@
+{
+  "query": "(\"sustainable development\" OR \"sustainable development goals\" OR \"climate change\" OR \"global warming\" OR \"renewable energy\" OR \"public health\" OR poverty OR inequality OR biodiversity OR SDG OR SDGs)",
+  "start_utc": "2024-01-01T00:00:00+00:00",
+  "end_utc": "2025-12-31T23:59:59+00:00",
+  "window_days": 90,
+  "page_size": 250,
+  "sleep_between_calls": 0.35,
+  "raw_rows": 495520,
+  "dedup_rows": 495520,
+  "raw_unique_urls": 495520,
+  "dedup_unique_urls": 495520,
+  "generated_at_utc": "2026-01-31T19:29:03+00:00"
+}

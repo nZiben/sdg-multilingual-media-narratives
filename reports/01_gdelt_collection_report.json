@@ -1,0 +1,19 @@
+{
+  "n_articles": 250,
+  "languages_top": {
+    "English": 97,
+    "Spanish": 35,
+    "Vietnamese": 18,
+    "Turkish": 16,
+    "Chinese": 15,
+    "German": 14,
+    "Italian": 6,
+    "Russian": 6,
+    "Indonesian": 6,
+    "Arabic": 4
+  },
+  "countries_top": {},
+  "min_seendate": "2026-01-31 04:30:00+00:00",
+  "max_seendate": "2026-01-31 06:15:00+00:00",
+  "generated_at_utc": "2026-01-31T06:44:14Z"
+}
